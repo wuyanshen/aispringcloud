@@ -9,3 +9,6 @@
 /resttemplate/target/
 /ribbon/target/
 /zuul/target/
+.idea/**
+*.iml
+target
