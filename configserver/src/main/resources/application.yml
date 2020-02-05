@@ -9,8 +9,8 @@ spring:
         git:
           uri: https://github.com/wuyanshen/aispringcloud.git
           search-paths: config
-          username: 763010522@qq.com
-          password: 225010wu
+          username: root
+          password: root
       label: master
 eureka:
   client:
